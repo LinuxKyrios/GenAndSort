@@ -1,0 +1,16 @@
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/bin/Debug/net5.0/Projekt3
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/bin/Debug/net5.0/Projekt3.deps.json
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/bin/Debug/net5.0/Projekt3.runtimeconfig.json
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/bin/Debug/net5.0/Projekt3.runtimeconfig.dev.json
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/bin/Debug/net5.0/Projekt3.dll
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/bin/Debug/net5.0/ref/Projekt3.dll
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/bin/Debug/net5.0/Projekt3.pdb
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/Projekt3.csproj.AssemblyReference.cache
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/Projekt3.GeneratedMSBuildEditorConfig.editorconfig
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/Projekt3.AssemblyInfoInputs.cache
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/Projekt3.AssemblyInfo.cs
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/Projekt3.csproj.CoreCompileInputs.cache
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/Projekt3.dll
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/ref/Projekt3.dll
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/Projekt3.pdb
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt3/Projekt3/Projekt3/obj/Debug/net5.0/Projekt3.genruntimeconfig.cache
